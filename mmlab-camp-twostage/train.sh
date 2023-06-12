@@ -1,0 +1,1 @@
+python tools/train.py ./fruit30/configs/mcls_fruit_resnet50.py
